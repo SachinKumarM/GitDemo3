@@ -3,6 +3,11 @@
   <to>Tove</to>
   <from>Jani</from>
   <heading>Reminder</heading>
+<<<<<<< HEAD
   <body>Don't forget me this weekend!</body>
   <body>Don't forget this weekend!</body>
+=======
+  <heading>Reminder New</heading>
+  <body>Don't forget me this weekend!</body>
+>>>>>>> GitWork
 </note>
